@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eddyngojr
-- 👀 I’m interested in ... becoming a front-end developer
-- 🌱 I’m currently learning ...frameworks, such as ReactJS
-- 💞️ I’m looking to collaborate on ...LinkedIn
-- 📫 How to reach me ...phone # 984-268-3015
+- 👀 I’m interested in becoming a front-end developer
+- 🌱 I’m currently learning frameworks, such as ReactJS
+- 💞️ I’m looking to collaborate on LinkedIn
+- 📫 How to reach me phone # 984-268-3015
 
 <!---
 eddyngojr/eddyngojr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
