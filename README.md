@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eddyngojr
 - 👀 I’m interested in becoming a Front-End Web Developer
-- 🌱 I’m currently learning frameworks, such as ReactJS
+- 🌱 I’m currently learning frameworks, such as ReactJS, Angular, and Vue
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me phone # 984-268-3015
 
